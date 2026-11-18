@@ -1,16 +1,30 @@
-![neoru-droid](banner.png)
+<picture>
+  <source media="(max-width: 600px)" srcset="media/header-mobile.jpg">
+  <img src="media/header-wide.jpg" alt="Пиксельная мастерская neoru-droid с настольной лампой и улыбающимся монитором">
+</picture>
 
-Русификаторы инди-игр и стратегий для **Windows** и **Steam Deck**: перевод текста, кириллица в родных шрифтах игры и установка в пару кликов с откатом оригинала.
+# Русификаторы игр
 
-### Готовые русификаторы
+Бесплатные переводы инди-игр и стратегий. В каждом выпуске есть установщик и возможность вернуть оригинал.
 
-| Игра | Версия | Что внутри | Навигация |
-| :--- | :---: | :--- | :--- |
-| **Frontier Tale** | `v1.1` | Сюжет, диалоги, предметы, крафт, постройки и задания (под патч `2.1.0`) | [Скачать v1.1](https://github.com/neoru-droid/frontier-tale-ru/releases/latest) · [Все версии](https://github.com/neoru-droid/frontier-tale-ru/releases) · [Описание](https://github.com/neoru-droid/frontier-tale-ru) · [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3840837132) |
-| **Zombies Aren't Real** | `v1.1` | Исправленный текст взамен машинного, пиксельный шрифт 8x8 и Tactical HUD (под патч `v0.43.1`) | [Скачать v1.1](https://github.com/neoru-droid/zombies-arent-real-ru/releases/latest) · [Все версии](https://github.com/neoru-droid/zombies-arent-real-ru/releases) · [Описание](https://github.com/neoru-droid/zombies-arent-real-ru) · [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3840725363) |
-| **We March as One** | `v1.1` | Кампания на 50 уровней, все режимы, 5 родных шрифтов и экран 30 достижений в меню игры | [Скачать v1.1](https://github.com/neoru-droid/we-march-as-one-ru/releases/latest) · [Все версии](https://github.com/neoru-droid/we-march-as-one-ru/releases) · [Описание](https://github.com/neoru-droid/we-march-as-one-ru) · [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3840161059) |
+### Frontier Tale
 
-### Ссылки и поддержка
+Сюжет, диалоги, предметы, рецепты и задания на русском языке. Проверено на патче 2.1.0. Совместимость с 2.1.4 уточняется.
 
-- **[Страница на Boosty](https://boosty.to/cd_tixo)** - лента всех релизов, обновления под патчи и выбор следующих игр на перевод
-- **[Разовые чаевые через CloudTips](https://pay.cloudtips.ru/p/240b8760)** (СБП / карта)
+**[Скачать v1.1 (ZIP)](https://github.com/neoru-droid/frontier-tale-ru/releases/download/v1.1.0/FrontierTale-RU-v1.1.zip)** · [Как установить](https://github.com/neoru-droid/frontier-tale-ru#установка)
+
+### We March as One
+
+Кампания на 50 уровней, пять игровых шрифтов с кириллицей и экран 30 достижений. Проверенная сборка Steam: 26651298.
+
+**[Скачать v1.1 (ZIP)](https://github.com/neoru-droid/we-march-as-one-ru/releases/download/v1.1.0/WeMarchAsOne-RU-v1.1.zip)** · [Как установить](https://github.com/neoru-droid/we-march-as-one-ru#установка)
+
+### Zombies Aren’t Real
+
+Исправленный русский текст, пиксельный шрифт 8×8 и гладкий Tactical HUD в настройках экрана. Проверено на патче 0.43.1.
+
+**[Скачать v1.1 (ZIP)](https://github.com/neoru-droid/zombies-arent-real-ru/releases/download/v1.1.0/ZombiesArentReal-RU-v1.1.zip)** · [Как установить](https://github.com/neoru-droid/zombies-arent-real-ru#установка)
+
+### Поддержать переводы
+
+[Новости и выбор следующей игры на Boosty](https://boosty.to/cd_tixo) · [Разовые чаевые](https://pay.cloudtips.ru/p/240b8760)
