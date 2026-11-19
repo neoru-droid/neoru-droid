@@ -17,13 +17,13 @@
 
 Кампания на 50 уровней, пять игровых шрифтов с кириллицей и экран 30 достижений. Проверенная сборка Steam: 26651298.
 
-**[Скачать v1.1 (ZIP)](https://github.com/neoru-droid/we-march-as-one-ru/releases/download/v1.1.0/WeMarchAsOne-RU-v1.1.zip)** · [Как установить](https://github.com/neoru-droid/we-march-as-one-ru#установка)
+**[Скачать v1.2 (ZIP)](https://github.com/neoru-droid/we-march-as-one-ru/releases/download/v1.2.0/WeMarchAsOne-RU-v1.2.zip)** · [Как установить](https://github.com/neoru-droid/we-march-as-one-ru#установка)
 
 ### Zombies Aren’t Real
 
-Исправленный русский текст, пиксельный шрифт 8×8 и гладкий Tactical HUD в настройках экрана. Проверено на патче 0.43.1.
+Исправленный русский текст, пиксельный шрифт 8×8 и гладкий Tactical HUD в настройках экрана. Проверено на патче 0.43.1 (сборка Steam 26692741).
 
-**[Скачать v1.1 (ZIP)](https://github.com/neoru-droid/zombies-arent-real-ru/releases/download/v1.1.0/ZombiesArentReal-RU-v1.1.zip)** · [Как установить](https://github.com/neoru-droid/zombies-arent-real-ru#установка)
+**[Скачать v1.2 (ZIP)](https://github.com/neoru-droid/zombies-arent-real-ru/releases/download/v1.2.0/ZombiesArentReal-RU-v1.2.zip)** · [Как установить](https://github.com/neoru-droid/zombies-arent-real-ru#установка)
 
 ### Поддержать переводы
 
