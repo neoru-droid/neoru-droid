@@ -9,9 +9,9 @@
 
 ### Frontier Tale
 
-Сюжет, диалоги, предметы, рецепты и задания на русском языке. Проверено на патче 2.1.0. Совместимость с 2.1.4 уточняется.
+Сюжет, диалоги, предметы, рецепты и задания на русском языке. Проверено на Frontier Tale 2.1.5 (сборка Steam 26751033).
 
-**[Скачать v1.1 (ZIP)](https://github.com/neoru-droid/frontier-tale-ru/releases/download/v1.1.0/FrontierTale-RU-v1.1.zip)** · [Как установить](https://github.com/neoru-droid/frontier-tale-ru#установка)
+**[Скачать v1.2 (ZIP)](https://github.com/neoru-droid/frontier-tale-ru/releases/download/v1.2.0/FrontierTale-RU-v1.2.zip)** · [Как установить](https://github.com/neoru-droid/frontier-tale-ru#установка)
 
 ### We March as One
 
