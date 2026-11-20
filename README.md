@@ -35,6 +35,12 @@
 
 **[Скачать мод-меню v1.0 (ZIP)](https://github.com/neoru-droid/we-march-as-one-trainer-ru/releases/download/v1.0.0/WeMarchAsOne-Trainer-RU-v1.0.zip)** · [Как установить](https://github.com/neoru-droid/we-march-as-one-trainer-ru#установка)
 
+### Zombies Aren't Real
+
+Мод-меню на русском языке с десятью функциями для обороны города и кампании (живая подгрузка в запущенной игре за 0.5 сек на обычном сохранении). Подготовлено под патч 0.43.1 (сборка Steam 26692741) для Windows (`F1`, `Alt+1..6`, геймпад `L3 + R3`) и SteamOS (`install-steamdeck.sh`).
+
+**[Скачать мод-меню v1.0 (ZIP)](https://github.com/neoru-droid/zombies-arent-real-trainer-ru/releases/download/v1.0.0/ZombiesArentReal-Trainer-RU-v1.0.zip)** · [Как установить](https://github.com/neoru-droid/zombies-arent-real-trainer-ru#установка)
+
 ## Поддержать проекты
 
 [Все выпуски и выбор следующей игры на Boosty](https://boosty.to/cd_tixo) · [Разовые чаевые](https://pay.cloudtips.ru/p/240b8760)
