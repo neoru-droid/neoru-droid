@@ -43,7 +43,13 @@
 
 **[Скачать перевод v1.2 (ZIP)](https://github.com/neoru-droid/zombies-arent-real-ru/releases/download/v1.2.0/ZombiesArentReal-RU-v1.2.zip)** · [Как установить](https://github.com/neoru-droid/zombies-arent-real-ru#установка) · [Boosty](https://boosty.to/cd_tixo/posts/0ec0506b-063f-4be2-a788-40ebe320add7)
 
-## Мод-меню (прежние выпуски)
+## Мод-меню (F1)
+
+### Here Comes the Horde
+
+Открытое внутриигровое меню удобств `F1` (`free_full`) на русском языке с 8 настройками баланса: неуязвимая стена (`500 000 HP`), быстрый призыв войск (`x5`), бесплатная застройка, слабая нежить (`x0.25`), быстрые способности и длительность `x2`, таланты за `1` душу и множители золота/душ. Проверено на версии `1.2.0` (сборка Steam `26864614`) для Windows (`F1`, `Alt+1..6`, геймпад `L3 + R3`) и Steam Deck / Linux (`install-steamdeck.sh`); достижения и сохранения работают штатно.
+
+**[Скачать мод-меню v1.0 (ZIP)](https://github.com/neoru-droid/here-comes-the-horde-mod-ru/releases/download/v1.0.0/HereComesTheHorde-Trainer-RU-v1.0.zip)** · [Как установить](https://github.com/neoru-droid/here-comes-the-horde-mod-ru#установка) · [Boosty](https://boosty.to/cd_tixo/posts/b3cdcac4-e365-460f-9d19-4536f8c2df0c)
 
 ### Deleted Wiki: Clean Up the Lost Files
 
