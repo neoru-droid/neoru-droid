@@ -1,74 +1,59 @@
 <picture>
   <source media="(max-width: 600px)" srcset="media/header-mobile.png">
-  <img src="media/header-wide.png" alt="Пиксельная мастерская neoru-droid с настольной лампой и улыбающимся монитором">
+  <img src="media/header-wide.png" alt="Мастерская переводов и мод-меню neoru-droid">
 </picture>
 
-# Русификаторы и мод-меню для игр
+# Русификаторы со шрифтами и внутриигровые мод-меню
 
-Бесплатные переводы и внутриигровые мод-меню для инди-игр и стратегий. В каждом выпуске есть автономный установщик и возврат оригинальных файлов игры.
+Делаем русские переводы для одиночных инди-игр и удобные внутриигровые мод-меню с панелью настройки баланса прямо поверх игры.
 
-**[Каталог всех полных изданий «2-в-1» и голосование на Boosty (бесплатно, без регистрации)](https://boosty.to/cd_tixo/posts/2a55d7e9-0f53-4d93-9f66-280981158dec)**
+- **Родные шрифты и аккуратный интерфейс:** подбираем кириллические шрифты под стиль игры (включая SDF и пиксельные гарнитуры) и правим вёрстку, чтобы русский текст не обрезался и не вылезал за кнопки.
+- **Поддержка Windows и Steam Deck:** в каждом архиве лежат графический установщик для Windows и готовый скрипт для Steam Deck и Linux (а где есть версия под macOS - и для неё).
+- **Достижения Steam и удаление в один клик:** ачивки продолжают открываться как в обычной игре, а кнопка отката в любой момент возвращает чистые оригинальные файлы без перекачивания в Steam.
+- **Все релизы бесплатны:** готовые выпуски лежат в открытом доступе без платной подписки и регистрации.
 
-## Полное издание «2-в-1» и отдельные пакеты
+**[Открыть каталог релизов на Boosty (бесплатно, без регистрации)](https://boosty.to/cd_tixo/posts/2a55d7e9-0f53-4d93-9f66-280981158dec)**
+
+## Русификаторы и парные издания
 
 ### Playrooms
 
-Весь интерфейс Playrooms95 (`mail.exe`, `shop.exe`, `skills.exe`), 177 реплик скрепки Балли, описания инструментов, телетекст на телевизоре, все 4 кириллических шрифта (1 439 строк) и единый установщик «2-в-1» с опциональным меню удобств `F1` (`Alt+1..8`). Проверено на версии 1.0.2 (сборка Steam 26705387) для Windows и Steam Deck / Linux.
+Весь интерфейс Playrooms95 (`mail.exe`, `shop.exe`, `skills.exe`), 177 реплик скрепки Балли, описания инструментов, телетекст на телевизоре, все 4 кириллических шрифта (1 439 строк) и единый установщик «2-в-1» с дополнительным внутриигровым мод-меню и настройкой баланса для одиночной игры (`F1`, `Alt+1..8`, `L3 + R3`). Проверено на версии 1.0.2 (сборка Steam 26705387) для Windows и Steam Deck / Linux.
 
-**[Выбрать вариант и скачать v1.0 на Boosty (2-в-1 / Русификатор / Меню F1)](https://boosty.to/cd_tixo/posts/0008f686-0666-4398-a5c7-c8a5b6d26d69)** · [Репозиторий и базовый перевод на GitHub](https://github.com/neoru-droid/playrooms-ru) · [Руководство в Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3844623165)
-
-## Русификаторы (прежние выпуски)
+**[Страница релиза 2-в-1 на Boosty](https://boosty.to/cd_tixo/posts/0008f686-0666-4398-a5c7-c8a5b6d26d69)** · [Репозиторий и базовый перевод на GitHub](https://github.com/neoru-droid/playrooms-ru) · [Руководство в Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3844623165)
 
 ### Deleted Wiki: Clean Up the Lost Files
 
-Каталог из 631 предмета, 15 скриптов, форум, письма, реплики вИИрона, кириллический шрифт и экран 29 достижений на русском языке. Проверено на версии 1.0.24 (сборка Steam 26304123) для Windows, Steam Deck и macOS.
+Каталог из 631 предмета, 15 скриптов, форум, письма, 250 реплик вИИрона, кириллический шрифт `Underdog`, поиск с поддержкой «е/ё» и экран 29 достижений на русском языке, а также совместимое внутриигровое мод-меню и настройка баланса («Консоль сисопа Corvid», 10 функций). Проверено на версии 1.0.24 (сборка Steam 26304123) для Windows, Steam Deck и macOS.
 
-**[Скачать перевод v1.0 (ZIP)](https://github.com/neoru-droid/deleted-wiki-ru/releases/download/v1.0.0/DeletedWiki-RU-v1.0.zip)** · [Как установить](https://github.com/neoru-droid/deleted-wiki-ru#установка) · [Boosty](https://boosty.to/cd_tixo/posts/7446d8dd-7024-4e12-9a7e-9e93afa01ec7)
+**[Единая страница релиза на Boosty](https://boosty.to/cd_tixo/posts/7446d8dd-7024-4e12-9a7e-9e93afa01ec7)** · [Русификатор на GitHub](https://github.com/neoru-droid/deleted-wiki-ru) · [Мод-меню на GitHub](https://github.com/neoru-droid/deleted-wiki-trainer-ru) · [Руководство в Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3842897222)
+
+### We March as One
+
+Кампания на 50 уровней, все 5 игровых шрифтов с кириллицей, древо навыков и экран 30 достижений, а также совместимое внутриигровое мод-меню на 10 функций для боя и кампании. Проверенная сборка Steam: 26651298 (Windows и Steam Deck / Linux).
+
+**[Единая страница релиза на Boosty](https://boosty.to/cd_tixo/posts/73fae114-79d9-4305-99cc-8d8af1d157ce)** · [Русификатор на GitHub](https://github.com/neoru-droid/we-march-as-one-ru) · [Мод-меню на GitHub](https://github.com/neoru-droid/we-march-as-one-trainer-ru) · [Руководство в Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3840161059)
+
+### Zombies Aren't Real
+
+Русский перевод кампании и снаряжения, кастомный пиксельный шрифт 8x8 и гладкий Tactical HUD в настройках экрана, а также внутриигровое мод-меню на 10 функций с живой подгрузкой настроек за полсекунды. Проверено на патче 0.43.1 (сборка Steam 26692741) для Windows и Steam Deck / Linux.
+
+**[Единая страница релиза на Boosty](https://boosty.to/cd_tixo/posts/0ec0506b-063f-4be2-a788-40ebe320add7)** · [Русификатор на GitHub](https://github.com/neoru-droid/zombies-arent-real-ru) · [Мод-меню на GitHub](https://github.com/neoru-droid/zombies-arent-real-trainer-ru) · [Руководство в Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3840725363)
 
 ### Frontier Tale
 
-Сюжет, диалоги, предметы, рецепты и задания на русском языке. Проверено на Frontier Tale 2.1.5 (сборка Steam 26751033).
+Сюжет, диалоги, предметы, рецепты, подписи мини-карты и задания на русском языке без обрезки строк. Проверено на Frontier Tale 2.1.5 (сборка Steam 26751033) для Windows и Steam Deck / Linux.
 
-**[Скачать перевод v1.2 (ZIP)](https://github.com/neoru-droid/frontier-tale-ru/releases/download/v1.2.0/FrontierTale-RU-v1.2.zip)** · [Как установить](https://github.com/neoru-droid/frontier-tale-ru#установка) · [Boosty](https://boosty.to/cd_tixo/posts/486ebb53-422d-4023-9da7-b1fdbc0b2a7f)
+**[Страница релиза на Boosty](https://boosty.to/cd_tixo/posts/486ebb53-422d-4023-9da7-b1fdbc0b2a7f)** · [Русификатор на GitHub](https://github.com/neoru-droid/frontier-tale-ru) · [Руководство в Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3840837132)
 
-### We March as One
-
-Кампания на 50 уровней, пять игровых шрифтов с кириллицей и экран 30 достижений. Проверенная сборка Steam: 26651298.
-
-**[Скачать перевод v1.2 (ZIP)](https://github.com/neoru-droid/we-march-as-one-ru/releases/download/v1.2.0/WeMarchAsOne-RU-v1.2.zip)** · [Как установить](https://github.com/neoru-droid/we-march-as-one-ru#установка) · [Boosty](https://boosty.to/cd_tixo/posts/73fae114-79d9-4305-99cc-8d8af1d157ce)
-
-### Zombies Aren't Real
-
-Исправленный русский текст, пиксельный шрифт 8x8 и гладкий Tactical HUD в настройках экрана. Проверено на патче 0.43.1 (сборка Steam 26692741).
-
-**[Скачать перевод v1.2 (ZIP)](https://github.com/neoru-droid/zombies-arent-real-ru/releases/download/v1.2.0/ZombiesArentReal-RU-v1.2.zip)** · [Как установить](https://github.com/neoru-droid/zombies-arent-real-ru#установка) · [Boosty](https://boosty.to/cd_tixo/posts/0ec0506b-063f-4be2-a788-40ebe320add7)
-
-## Мод-меню (F1)
+## Внутриигровые мод-меню для игр с русской локализацией
 
 ### Here Comes the Horde
 
-Открытое внутриигровое меню удобств `F1` (`free_full`) на русском языке с 8 настройками баланса: неуязвимая стена (`500 000 HP`), быстрый призыв войск (`x5`), бесплатная застройка, слабая нежить (`x0.25`), быстрые способности и длительность `x2`, таланты за `1` душу и множители золота/душ. Проверено на версии `1.2.0` (сборка Steam `26864614`) для Windows (`F1`, `Alt+1..6`, геймпад `L3 + R3`) и Steam Deck / Linux (`install-steamdeck.sh`); достижения и сохранения работают штатно.
+Внутриигровое мод-меню и панель настройки баланса на русском языке (8 переключателей: неуязвимая стена `500 000 HP`, быстрый призыв войск, бесплатная застройка, ослабление волн, быстрые способности, таланты за `1` Душу и множители золота и душ). Официальный русский язык уже есть в самой игре, а достижения Steam продолжают открываться как обычно. Проверено на версии `1.2.0` (сборка Steam `26864614`) для Windows (`F1`, `Alt+1..6`, геймпад `L3 + R3`) и Steam Deck / Linux (`install-steamdeck.sh`).
 
-**[Скачать мод-меню v1.0 (ZIP)](https://github.com/neoru-droid/here-comes-the-horde-mod-ru/releases/download/v1.0.0/HereComesTheHorde-Trainer-RU-v1.0.zip)** · [Как установить](https://github.com/neoru-droid/here-comes-the-horde-mod-ru#установка) · [Boosty](https://boosty.to/cd_tixo/posts/b3cdcac4-e365-460f-9d19-4536f8c2df0c)
+**[Страница релиза на Boosty](https://boosty.to/cd_tixo/posts/b3cdcac4-e365-460f-9d19-4536f8c2df0c)** · [Репозиторий и загрузка на GitHub](https://github.com/neoru-droid/here-comes-the-horde-mod-ru)
 
-### Deleted Wiki: Clean Up the Lost Files
+## Поддержать мастерскую
 
-Внутриигровое меню на русском языке с десятью функциями для автосортировки каталога, шкалы заряда, СортБотов и прокачки 15 скриптов. Проверено на версии 1.0.24 (сборка Steam 26304123) для Windows (`F1`, `Alt+1..6`), Steam Deck (`install-steamdeck.sh`, `L3 + R3`) и macOS (`install-macos.command`, `Cmd + Shift + M`).
-
-**[Скачать мод-меню v1.0 (ZIP)](https://github.com/neoru-droid/deleted-wiki-trainer-ru/releases/download/v1.0.0/DeletedWiki-Trainer-RU-v1.0.zip)** · [Как установить](https://github.com/neoru-droid/deleted-wiki-trainer-ru#установка) · [Boosty](https://boosty.to/cd_tixo/posts/a81d8e6b-b25e-4d8f-92c0-6be3398d8c92)
-
-### We March as One
-
-Внутриигровое меню на русском языке с десятью функциями для боя и кампании. Проверено на Windows в сборке Steam 26651298 (клавиши `F1` и `Alt+1..6`), в архиве также есть скрипт `install-steamdeck.sh` для SteamOS и управления с геймпада (`L3 + R3`).
-
-**[Скачать мод-меню v1.0 (ZIP)](https://github.com/neoru-droid/we-march-as-one-trainer-ru/releases/download/v1.0.0/WeMarchAsOne-Trainer-RU-v1.0.zip)** · [Как установить](https://github.com/neoru-droid/we-march-as-one-trainer-ru#установка) · [Boosty](https://boosty.to/cd_tixo/posts/67b44bd4-bded-4dd1-82e1-76f8742703f9)
-
-### Zombies Aren't Real
-
-Мод-меню на русском языке с десятью функциями для обороны города и кампании (живая подгрузка в запущенной игре за 0.5 сек на обычном сохранении). Подготовлено под патч 0.43.1 (сборка Steam 26692741) для Windows (`F1`, `Alt+1..6`, геймпад `L3 + R3`) и SteamOS (`install-steamdeck.sh`).
-
-**[Скачать мод-меню v1.0 (ZIP)](https://github.com/neoru-droid/zombies-arent-real-trainer-ru/releases/download/v1.0.0/ZombiesArentReal-Trainer-RU-v1.0.zip)** · [Как установить](https://github.com/neoru-droid/zombies-arent-real-trainer-ru#установка) · [Boosty](https://boosty.to/cd_tixo/posts/e8d7f13d-9451-4e80-b252-767b03536845)
-
-## Поддержать проекты
-
-[Все выпуски и выбор следующей игры на Boosty](https://boosty.to/cd_tixo) · [Разовые чаевые](https://pay.cloudtips.ru/p/240b8760)
+[Каталог и подписка на Boosty](https://boosty.to/cd_tixo) · [Разовая поддержка через CloudTips (СБП / карта)](https://pay.cloudtips.ru/p/240b8760)
