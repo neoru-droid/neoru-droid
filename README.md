@@ -24,25 +24,25 @@
 
 ### Deleted Wiki: Clean Up the Lost Files
 
-Каталог из 631 предмета, 15 скриптов, форум, письма, 250 реплик вИИрона, кириллический шрифт `Underdog`, поиск с поддержкой «е/ё» и экран 29 достижений на русском языке, а также совместимое внутриигровое мод-меню и настройка баланса («Консоль сисопа Corvid», 10 функций). Проверено на версии 1.0.24 (сборка Steam 26304123) для Windows, Steam Deck и macOS.
+Каталог из 631 предмета, 15 скриптов, форум, письма, 250 реплик вИИрона, кириллический шрифт `Underdog`, поиск с поддержкой «е/ё», экран 29 достижений на русском языке и единый установщик «2-в-1» с дополнительным внутриигровым мод-меню и настройкой баланса («Консоль сисопа Corvid», 10 функций). Проверено на версии 1.0.24 (сборка Steam 26304123) для Windows, Steam Deck и macOS.
 
-**[Единая страница релиза на Boosty](https://boosty.to/cd_tixo/posts/7446d8dd-7024-4e12-9a7e-9e93afa01ec7)** · [Русификатор на GitHub](https://github.com/neoru-droid/deleted-wiki-ru) · [Мод-меню на GitHub](https://github.com/neoru-droid/deleted-wiki-trainer-ru) · [Руководство в Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3842897222)
+**[Страница релиза 2-в-1 на Boosty](https://boosty.to/cd_tixo/posts/7446d8dd-7024-4e12-9a7e-9e93afa01ec7)** · [Русификатор на GitHub](https://github.com/neoru-droid/deleted-wiki-ru) · [Мод-меню на GitHub](https://github.com/neoru-droid/deleted-wiki-trainer-ru) · [Руководство в Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3842897222)
 
 ### We March as One
 
-Кампания на 50 уровней, все 5 игровых шрифтов с кириллицей, древо навыков и экран 30 достижений, а также совместимое внутриигровое мод-меню на 10 функций для боя и кампании. Проверенная сборка Steam: 26651298 (Windows и Steam Deck / Linux).
+Кампания на 50 уровней, все 5 игровых шрифтов с кириллицей, древо навыков, экран 30 достижений и единый установщик «2-в-1» с дополнительным внутриигровым мод-меню на 10 функций для боя и кампании. Проверенная сборка Steam: 26651298 (Windows и Steam Deck / Linux).
 
-**[Единая страница релиза на Boosty](https://boosty.to/cd_tixo/posts/73fae114-79d9-4305-99cc-8d8af1d157ce)** · [Русификатор на GitHub](https://github.com/neoru-droid/we-march-as-one-ru) · [Мод-меню на GitHub](https://github.com/neoru-droid/we-march-as-one-trainer-ru) · [Руководство в Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3840161059)
+**[Страница релиза 2-в-1 на Boosty](https://boosty.to/cd_tixo/posts/73fae114-79d9-4305-99cc-8d8af1d157ce)** · [Русификатор на GitHub](https://github.com/neoru-droid/we-march-as-one-ru) · [Мод-меню на GitHub](https://github.com/neoru-droid/we-march-as-one-trainer-ru) · [Руководство в Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3840161059)
 
 ### Zombies Aren't Real
 
-Русский перевод кампании и снаряжения, кастомный пиксельный шрифт 8x8 и гладкий Tactical HUD в настройках экрана, а также внутриигровое мод-меню на 10 функций с живой подгрузкой настроек за полсекунды. Проверено на патче 0.43.1 (сборка Steam 26692741) для Windows и Steam Deck / Linux.
+Русский перевод 3 009 строк кампании, снаряжения и правил кооператива (`v1.3`), кастомный пиксельный шрифт 8x8 и гладкий Tactical HUD в настройках экрана, а также единый установщик «2-в-1» с внутриигровым мод-меню `v1.0` на 10 функций. Проверено на патче 0.44.0 (сборка Steam 26799228) для Windows и Steam Deck / Linux.
 
-**[Единая страница релиза на Boosty](https://boosty.to/cd_tixo/posts/0ec0506b-063f-4be2-a788-40ebe320add7)** · [Русификатор на GitHub](https://github.com/neoru-droid/zombies-arent-real-ru) · [Мод-меню на GitHub](https://github.com/neoru-droid/zombies-arent-real-trainer-ru) · [Руководство в Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3840725363)
+**[Страница релиза 2-в-1 на Boosty](https://boosty.to/cd_tixo/posts/0ec0506b-063f-4be2-a788-40ebe320add7)** · [Русификатор на GitHub](https://github.com/neoru-droid/zombies-arent-real-ru) · [Мод-меню на GitHub](https://github.com/neoru-droid/zombies-arent-real-trainer-ru) · [Руководство в Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3840725363)
 
 ### Frontier Tale
 
-Сюжет, диалоги, предметы, рецепты, подписи мини-карты и задания на русском языке без обрезки строк. Проверено на Frontier Tale 2.1.5 (сборка Steam 26751033) для Windows и Steam Deck / Linux.
+Сюжет, диалоги, предметы, рецепты, подписи мини-карты и задания на русском языке (`v1.3`, 7 036 строк) без обрезки строк. Проверено на Frontier Tale 2.1.7 (сборка Steam 26862122) для Windows и Steam Deck / Linux.
 
 **[Страница релиза на Boosty](https://boosty.to/cd_tixo/posts/486ebb53-422d-4023-9da7-b1fdbc0b2a7f)** · [Русификатор на GitHub](https://github.com/neoru-droid/frontier-tale-ru) · [Руководство в Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3840837132)
 
