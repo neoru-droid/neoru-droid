@@ -5,73 +5,69 @@
 
 # Русификаторы со шрифтами и внутриигровые мод-меню
 
-Делаем русские переводы для одиночных инди-игр и удобные внутриигровые мод-меню с панелью настройки баланса прямо поверх игры.
+Делаем русские переводы для одиночных инди-игр и удобные внутриигровые мод-меню с настройкой баланса для Windows, Steam Deck и macOS.
 
-- **Родные шрифты и аккуратный интерфейс:** подбираем кириллические шрифты под стиль игры (включая SDF и пиксельные гарнитуры) и правим вёрстку, чтобы русский текст не обрезался и не вылезал за кнопки.
-- **Поддержка Windows и Steam Deck:** в каждом архиве лежат графический установщик для Windows и готовый скрипт для Steam Deck и Linux (а где есть версия под macOS - и для неё).
-- **Достижения Steam и удаление в один клик:** ачивки продолжают открываться как в обычной игре, а кнопка отката в любой момент возвращает чистые оригинальные файлы без перекачивания в Steam.
-- **Открытый доступ на всех площадках:** все готовые сборки лежат в публичном доступе без платной подписки.
+- **Родные шрифты и чистый интерфейс:** подбираем кириллические шрифты под стиль игры и поправляем вёрстку, чтобы текст нигде не обрезался.
+- **Установка и возврат в один клик:** в каждом архиве графический установщик Windows и скрипт для Steam Deck / Linux, а откат возвращает оригинальные файлы.
+- **Достижения продолжают работать:** переводы и таблицы не блокируют получение достижений Steam.
+- **Открытый выпуск и ранний доступ:** готовые сборки выходят в открытый доступ, а подписчики Boosty получают новинки и фиксы под патчи первыми.
 
-**[Открыть каталог релизов на Boosty](https://boosty.to/cd_tixo/posts/2a55d7e9-0f53-4d93-9f66-280981158dec)**
+**[Открыть каталог с поиском (neoru-droid.github.io)](https://neoru-droid.github.io/)** · **[Все посты и подписка на Boosty](https://boosty.to/cd_tixo)** · **[Руководства в Steam](https://steamcommunity.com/id/cd-_-TiXo/myworkshopfiles/?section=guides)**
 
-## Русификаторы и парные издания
-
-### Playrooms
-
-Весь интерфейс Playrooms95 (`mail.exe`, `shop.exe`, `skills.exe`), 177 реплик скрепки Балли, описания инструментов, телетекст на телевизоре, все 4 кириллических шрифта (1 439 строк) и единый установщик «2-в-1» с дополнительным внутриигровым мод-меню и настройкой баланса для одиночной игры (`F1`, `Alt+1..8`, `L3 + R3`). Проверено на версии 1.0.2 (сборка Steam 26705387) для Windows и Steam Deck / Linux.
-
-**[Страница релиза 2-в-1 на Boosty](https://boosty.to/cd_tixo/posts/0008f686-0666-4398-a5c7-c8a5b6d26d69)** · [Репозиторий и базовый перевод на GitHub](https://github.com/neoru-droid/playrooms-ru) · [Руководство в Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3844623165)
+## Русификаторы и сборки 2-в-1
 
 ### Deleted Wiki: Clean Up the Lost Files
 
-Каталог из 631 предмета, 15 скриптов, форум, письма, 250 реплик вИИрона, кириллический шрифт `Underdog`, поиск с поддержкой «е/ё», экран 29 достижений на русском языке, единый установщик «2-в-1» с внутриигровым мод-меню («Консоль сисопа Corvid», 10 функций) и русская таблица Cheat Engine (`.CT` `v1.0`, без блокировки достижений). Проверено на версии 1.0.24 (сборка Steam 26304123) для Windows, Steam Deck и macOS.
+Перевод 631 предмета, 15 скриптов, форума, реплик вИИрона и экрана 29 достижений со шрифтом Underdog плюс сборка 2-в-1 и таблица Cheat Engine.
 
-**[Страница релиза 2-в-1 на Boosty](https://boosty.to/cd_tixo/posts/7446d8dd-7024-4e12-9a7e-9e93afa01ec7)** · [Русификатор на GitHub](https://github.com/neoru-droid/deleted-wiki-ru) · [Мод-меню и .CT на GitHub](https://github.com/neoru-droid/deleted-wiki-trainer-ru) · [Руководство в Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3842897222)
-
-### We March as One
-
-Кампания на 50 уровней, все 5 игровых шрифтов с кириллицей, древо навыков, экран 30 достижений, единый установщик «2-в-1» с внутриигровым мод-меню на 10 функций и русская таблица Cheat Engine (`.CT` `v1.0`, с сохранением прогресса после перезапуска). Проверенная сборка Steam: 26651298 (Windows и Steam Deck / Linux).
-
-**[Страница релиза 2-в-1 на Boosty](https://boosty.to/cd_tixo/posts/73fae114-79d9-4305-99cc-8d8af1d157ce)** · [Русификатор на GitHub](https://github.com/neoru-droid/we-march-as-one-ru) · [Мод-меню и .CT на GitHub](https://github.com/neoru-droid/we-march-as-one-trainer-ru) · [Руководство в Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3840161059)
-
-### Zombies Aren't Real
-
-Русский перевод 3 009 строк кампании, снаряжения и правил кооператива (`v1.3`), кастомный пиксельный шрифт 8x8 и гладкий Tactical HUD в настройках экрана, единый установщик «2-в-1» с внутриигровым мод-меню `v1.0` на 10 функций и русская таблица Cheat Engine (`.CT` `v1.0`). Проверено на патче 0.44.0 (сборка Steam 26799228) для Windows и Steam Deck / Linux.
-
-**[Страница релиза 2-в-1 на Boosty](https://boosty.to/cd_tixo/posts/0ec0506b-063f-4be2-a788-40ebe320add7)** · [Русификатор на GitHub](https://github.com/neoru-droid/zombies-arent-real-ru) · [Мод-меню и .CT на GitHub](https://github.com/neoru-droid/zombies-arent-real-trainer-ru) · [Руководство в Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3840725363)
+**[Страница игры на Boosty](https://boosty.to/cd_tixo/posts/7446d8dd-7024-4e12-9a7e-9e93afa01ec7)** · [GitHub](https://github.com/neoru-droid/deleted-wiki-ru) · [Руководство в Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3842897222)
 
 ### Frontier Tale
 
-Сюжет, диалоги, предметы, рецепты, подписи мини-карты и задания на русском языке (`v1.3`, 7 036 строк) без обрезки строк. Проверено на Frontier Tale 2.1.7 (сборка Steam 26862122) для Windows и Steam Deck / Linux.
+Полный перевод сюжета, диалогов, предметов, рецептов, подписей мини-карты и заданий без обрезки текста под патч 2.1.7.
 
-**[Страница релиза на Boosty](https://boosty.to/cd_tixo/posts/486ebb53-422d-4023-9da7-b1fdbc0b2a7f)** · [Русификатор на GitHub](https://github.com/neoru-droid/frontier-tale-ru) · [Руководство в Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3840837132)
+**[Страница игры на Boosty](https://boosty.to/cd_tixo/posts/486ebb53-422d-4023-9da7-b1fdbc0b2a7f)** · [GitHub](https://github.com/neoru-droid/frontier-tale-ru) · [Руководство в Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3840837132)
 
-## Внутриигровые мод-меню для игр с русской локализацией
+### Playrooms
 
-### Here Comes the Horde
+Перевод интерфейса Playrooms95, 177 реплик скрепки Балли, телетекста и 4 шрифтов плюс сборка 2-в-1 с мод-меню и таблицей Cheat Engine.
 
-Внутриигровое мод-меню и панель настройки баланса на русском языке (8 переключателей: неуязвимая стена `500 000 HP`, быстрый призыв войск, бесплатная застройка, ослабление волн, быстрые способности, таланты за `1` Душу и множители золота и душ) плюс таблица Cheat Engine (`HereComesTheHorde_RU_v1.1.CT`). Официальный русский язык уже есть в самой игре, а достижения Steam продолжают открываться как обычно. Проверено на версии `1.2.0` (сборка Steam `26864614`) для Windows (`F1`, `Alt+1..6`, геймпад `L3 + R3`) и Steam Deck / Linux (`install-steamdeck.sh`).
+**[Страница игры на Boosty](https://boosty.to/cd_tixo/posts/0008f686-0666-4398-a5c7-c8a5b6d26d69)** · [GitHub](https://github.com/neoru-droid/playrooms-ru) · [Руководство в Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3844623165)
 
-**[Страница релиза на Boosty](https://boosty.to/cd_tixo/posts/b3cdcac4-e365-460f-9d19-4536f8c2df0c)** · [Репозиторий и загрузка на GitHub](https://github.com/neoru-droid/here-comes-the-horde-mod-ru)
+### We March as One
+
+Перевод кампании на 50 уровней, древа навыков и 30 достижений со всеми 5 игровыми шрифтами плюс сборка 2-в-1 с мод-меню и таблицей Cheat Engine.
+
+**[Страница игры на Boosty](https://boosty.to/cd_tixo/posts/73fae114-79d9-4305-99cc-8d8af1d157ce)** · [GitHub](https://github.com/neoru-droid/we-march-as-one-ru) · [Руководство в Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3840161059)
+
+### Zombies Aren't Real
+
+Перевод 3 009 строк кампании, снаряжения и кооператива с пиксельным шрифтом 8x8 и гладким Tactical HUD плюс сборка 2-в-1 и таблица Cheat Engine.
+
+**[Страница игры на Boosty](https://boosty.to/cd_tixo/posts/0ec0506b-063f-4be2-a788-40ebe320add7)** · [GitHub](https://github.com/neoru-droid/zombies-arent-real-ru) · [Руководство в Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3840725363)
+
+## Мод-меню и таблицы Cheat Engine
 
 ### Booster Pack Heroes
 
-Внутриигровое русское мод-меню (`v1.0`), стартовое сохранение `CheatMod` и таблица Cheat Engine (`BoosterPackHeroes_RU_v1.0.CT`): +10 000 монет, +5 000 мастерства, +1 000 черепов и фолиума, космо-монеты, зенит, режим бога, бесконечный урон курсора, неуязвимость башни, гарантированная фольга и гигантские карты в бустерах. Проверено на версии `1.0.30d` для Windows (`F1`, `Alt+1..8`, `L3 + R3`), Steam Deck / Linux и macOS.
+Русское мод-меню, стартовое сохранение CheatMod и таблица Cheat Engine с настройкой валют, урона курсора, неуязвимости башни и фольгированных бустеров.
 
-**[Страница релиза на Boosty](https://boosty.to/cd_tixo/posts/955a2671-c452-4955-b234-15400619ae78)** · [Репозиторий и загрузка на GitHub](https://github.com/neoru-droid/booster-pack-heroes-mod-ru)
+**[Страница игры на Boosty](https://boosty.to/cd_tixo/posts/955a2671-c452-4955-b234-15400619ae78)** · [GitHub](https://github.com/neoru-droid/booster-pack-heroes-mod-ru)
 
-### One More Lawn
+### Here Comes the Horde
 
-Внутриигровое русское мод-меню (`.omlmod` v1.0) и таблица Cheat Engine (`OneMoreLawn_RU_v1.0.CT`): турбо-косилка `x2.5`, широкая дека `4.4 м`, бесконечное топливо и заряд гольф-каров, покос `18x18 м`, высокий прыжок, начисление денег `+1 000 $ / +10 000 $` и выбор погоды / времени суток. Проверено на версии `1.0.3` для Windows (`F1`, `Tab`, `H..9`) и Steam Deck / Linux.
+Внутриигровое мод-меню с 8 настройками баланса и таблица Cheat Engine v1.1 (исправлены Души и сохранение прогресса после перезапуска).
 
-**[Страница релиза на Boosty](https://boosty.to/cd_tixo/posts/67ce4af5-4975-4f8e-9f0c-e64ab7899433)** · [Репозиторий и загрузка на GitHub](https://github.com/neoru-droid/one-more-lawn-mod-ru)
+**[Страница игры на Boosty](https://boosty.to/cd_tixo/posts/b3cdcac4-e365-460f-9d19-4536f8c2df0c)** · [GitHub](https://github.com/neoru-droid/here-comes-the-horde-mod-ru)
 
 ### How They Built the Pyramids
 
-Внутриигровое русское мод-меню (`v1.0`), стартовое сохранение `CheatMod` (`50 000` монет и командные улучшения 10 уровня) и таблица Cheat Engine (`HowTheyBuiltThePyramids_RU_v1.0.CT`): пополнение казны `+1 000 / +10 000`, прокачка 5 командных веток до 10 уровня, +250 кирпичей и +2 500 г глины, отключение жары и обморока, быстрый бег `x1.9`, прыжок `x1.6` и лёгкая переноска. Проверено на версии `0.43.0` для Windows (`F1`, `Alt+1..8`, `L3 + R3`) и Steam Deck / Linux.
+Русское мод-меню, сохранение с золотом и лагерем 10 уровня, а также таблица Cheat Engine на ресурсы стройки, скорость бега и защиту от жары.
 
-**[Страница релиза на Boosty](https://boosty.to/cd_tixo/posts/41ca289e-3e82-4c0f-af84-9cad91e1b84a)** · [Репозиторий и загрузка на GitHub](https://github.com/neoru-droid/how-they-built-the-pyramids-mod-ru)
+**[Страница игры на Boosty](https://boosty.to/cd_tixo/posts/41ca289e-3e82-4c0f-af84-9cad91e1b84a)** · [GitHub](https://github.com/neoru-droid/how-they-built-the-pyramids-mod-ru)
 
-## Поддержать мастерскую
+### One More Lawn
 
-[Каталог и подписка на Boosty](https://boosty.to/cd_tixo) · [Разовая поддержка через CloudTips (СБП / карта)](https://pay.cloudtips.ru/p/240b8760)
+Русское мод-меню (.omlmod) и таблица Cheat Engine на турбо-косилку, широкую деку 4.4 м, бесконечное топливо, покос площади 18x18 и выбор погоды.
+
+**[Страница игры на Boosty](https://boosty.to/cd_tixo/posts/67ce4af5-4975-4f8e-9f0c-e64ab7899433)** · [GitHub](https://github.com/neoru-droid/one-more-lawn-mod-ru)
