@@ -1,18 +1,15 @@
 <picture>
   <source media="(max-width: 600px)" srcset="media/header-mobile.png">
-  <img src="media/header-wide.png" alt="Мастерская переводов и мод-меню neoru-droid">
+  <img src="media/header-wide.png" alt="neoru-droid - русификаторы и мод-меню">
 </picture>
 
-# Русификаторы со шрифтами и внутриигровые мод-меню
+# neoru-droid
 
-Делаем русские переводы для одиночных инди-игр и удобные внутриигровые мод-меню с настройкой баланса для Windows, Steam Deck и macOS.
+Делаю русификаторы со шрифтами, мод-меню на русском и таблицы Cheat Engine для одиночных инди-игр (Windows, Steam Deck и macOS).
 
-- **Родные шрифты и чистый интерфейс:** кириллица подогнана под окна и кнопки без обрезки строк.
-- **Windows и Steam Deck:** в каждом архиве графический установщик с кнопкой удаления и скрипт для SteamOS / Linux.
-- **Достижения в Steam:** переводы, мод-меню и таблицы не блокируют получение достижений.
-- **Открытый доступ и ранний доступ:** готовые сборки выходят для всех; подписчики Boosty получают новинки и фиксы на 48 часов раньше.
+Готовые сборки выходят в открытый доступ; на Boosty новинки и патчи появляются на 48 часов раньше.
 
-**[Открыть каталог с поиском (neoru-droid.github.io)](https://neoru-droid.github.io/)** · **[Все посты и подписка на Boosty](https://boosty.to/cd_tixo?utm_source=github_profile&utm_medium=readme&utm_campaign=hub)** · **[Руководства в Steam](https://steamcommunity.com/id/cd-_-TiXo/myworkshopfiles/?section=guides)**
+**[Каталог с поиском (neoru-droid.github.io)](https://neoru-droid.github.io/)** · **[Страница на Boosty](https://boosty.to/cd_tixo?utm_source=github_profile&utm_medium=readme&utm_campaign=hub)** · **[Руководства в Steam](https://steamcommunity.com/id/cd-_-TiXo/myworkshopfiles/?section=guides)**
 
 ## Русификаторы и сборки 2-в-1
 
@@ -50,7 +47,7 @@
 
 ### Booster Pack Heroes
 
-Русское мод-меню, стартовое сохранение со всеми ресурсами и таблица Cheat Engine на валюты, урон курсора, неуязвимость башни и фольгированные бустеры.
+Мод-меню на русском, стартовое сохранение со всеми ресурсами и таблица Cheat Engine на валюты, урон курсора, неуязвимость башни и фольгированные бустеры.
 
 **[Страница игры на Boosty](https://boosty.to/cd_tixo/posts/955a2671-c452-4955-b234-15400619ae78?utm_source=github_profile&utm_medium=readme&utm_campaign=booster_pack_heroes)** · [GitHub](https://github.com/neoru-droid/booster-pack-heroes-mod-ru)
 
@@ -62,18 +59,18 @@
 
 ### How They Built the Pyramids
 
-Русское мод-меню, стартовое сохранение с золотом и лагерем 10 уровня, а также таблица Cheat Engine на ресурсы стройки, быстрый бег и защиту от жары.
+Мод-меню на русском, стартовое сохранение с золотом и лагерем 10 уровня, а также таблица Cheat Engine на ресурсы стройки, быстрый бег и защиту от жары.
 
 **[Страница игры на Boosty](https://boosty.to/cd_tixo/posts/41ca289e-3e82-4c0f-af84-9cad91e1b84a?utm_source=github_profile&utm_medium=readme&utm_campaign=how_they_built_the_pyramids)** · [GitHub](https://github.com/neoru-droid/how-they-built-the-pyramids-mod-ru)
 
 ### One More Lawn
 
-Русское мод-меню (.omlmod) и таблица Cheat Engine на быструю косилку, широкую деку 4.4 м, бесконечное топливо, покос участка 18x18 м и смену погоды.
+Мод-меню на русском (.omlmod) и таблица Cheat Engine на быструю косилку, широкую деку 4.4 м, бесконечное топливо, покос участка 18x18 м и смену погоды.
 
 **[Страница игры на Boosty](https://boosty.to/cd_tixo/posts/67ce4af5-4975-4f8e-9f0c-e64ab7899433?utm_source=github_profile&utm_medium=readme&utm_campaign=one_more_lawn)** · [GitHub](https://github.com/neoru-droid/one-more-lawn-mod-ru)
 
 ### SHRED A BILLION
 
-Русское мод-меню прямо в игре, стартовое сохранение с 10 000 000 $ и таблица Cheat Engine на деньги, золотые слитки, очки навыков, инструменты и магнит купюр.
+Мод-меню на русском, стартовое сохранение с 10 000 000 $ и таблица Cheat Engine на деньги, золотые слитки, очки навыков, инструменты и магнит купюр.
 
 **[Страница игры на Boosty](https://boosty.to/cd_tixo/posts/91615b98-617b-4e4e-8056-baf6eca9ae71?utm_source=github_profile&utm_medium=readme&utm_campaign=shred_a_billion)** · [GitHub](https://github.com/neoru-droid/shred-a-billion-mod-ru)
