@@ -9,10 +9,11 @@
 
 Русификаторы, таблицы .CT и сохранения открыты бесплатно сразу; новые мод-меню и срочные патчи выходят на Boosty на 48 часов раньше, затем открываются всем.
 
-**[Каталог с поиском (neoru-droid.github.io)](https://neoru-droid.github.io/)** · **[Страница на Boosty](https://boosty.to/cd_tixo?utm_source=github_profile&utm_medium=readme&utm_campaign=hub)** · **[Руководства в Steam](https://steamcommunity.com/id/cd-_-TiXo/myworkshopfiles/?section=guides)**
+**[Каталог с поиском (neoru-droid.github.io)](https://neoru-droid.github.io/)** · **[Отслеживать патчи на Boosty (бесплатно)](https://boosty.to/cd_tixo?utm_source=github_profile&utm_medium=follow&utm_campaign=hub)** · **[Страница на Boosty](https://boosty.to/cd_tixo?utm_source=github_profile&utm_medium=readme&utm_campaign=hub)** · **[Руководства в Steam](https://steamcommunity.com/id/cd-_-TiXo/myworkshopfiles/?section=guides)**
 
 ## Ранний доступ и заказ своей игры
 
+- **Бесплатно («Отслеживать» на Boosty)** - уведомления о фиксах под новые патчи Steam и выходе следующих игр.
 - **120 ₽** (скидка 20% на первый месяц вместо 150 ₽ или разовая покупка поста) - новинки и срочные обновления под патчи сразу в день выхода, за 48 часов до общего открытия.
 - **350 ₽ в месяц** - предложить свою игру в приоритетную очередь на перевод или мод-меню.
 - **750 ₽ в месяц** - заказ разбора подходящей одиночной игры вне очереди и свои функции баланса.
