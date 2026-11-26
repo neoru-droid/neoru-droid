@@ -7,7 +7,7 @@
 
 Делаю русификаторы со шрифтами, мод-меню на русском и таблицы Cheat Engine для одиночных инди-игр (Windows, Steam Deck и macOS).
 
-Готовые сборки выходят в открытый доступ; на Boosty новинки и патчи появляются на 48 часов раньше.
+Русификаторы, таблицы .CT и сохранения открыты бесплатно сразу; новые мод-меню и срочные патчи выходят на Boosty на 48 часов раньше, затем открываются всем.
 
 **[Каталог с поиском (neoru-droid.github.io)](https://neoru-droid.github.io/)** · **[Страница на Boosty](https://boosty.to/cd_tixo?utm_source=github_profile&utm_medium=readme&utm_campaign=hub)** · **[Руководства в Steam](https://steamcommunity.com/id/cd-_-TiXo/myworkshopfiles/?section=guides)**
 
