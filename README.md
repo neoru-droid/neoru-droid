@@ -62,7 +62,7 @@
 
 ### No Asteroids
 
-Бортовой терминал SX-19 на 13 функций (кислород, джетпак, бур 5x, арсенал, кредиты, таймер дней) и стартовое сохранение на 1 100 000 ₵.
+Бортовой терминал SX-19 на 13 функций, таблица .CT на 10 скриптов (автопоиск процесса) и стартовое сохранение на 1 100 000 ₵.
 
 **[Ранний доступ на Boosty (от 120 ₽)](https://boosty.to/cd_tixo/posts/e3df6474-7865-4719-8a58-c84be12d93ea?utm_source=github_profile&utm_medium=readme&utm_campaign=no_asteroids)** · [GitHub](https://github.com/neoru-droid/no-asteroids-mod-ru)
 
