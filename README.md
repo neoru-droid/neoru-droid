@@ -81,7 +81,7 @@
 
 10 000 000 $ на счету со старта, золотые слитки, очки навыков, все инструменты, магнит купюр и ускорение работы.
 
-**[Страница игры на Boosty](https://boosty.to/cd_tixo/posts/91615b98-617b-4e4e-8056-baf6eca9ae71?utm_source=github_profile&utm_medium=readme&utm_campaign=shred_a_billion)** · [GitHub](https://github.com/neoru-droid/shred-a-billion-mod-ru)
+**[Ранний доступ на Boosty (от 120 ₽)](https://boosty.to/cd_tixo/posts/91615b98-617b-4e4e-8056-baf6eca9ae71?utm_source=github_profile&utm_medium=readme&utm_campaign=shred_a_billion)** · [GitHub](https://github.com/neoru-droid/shred-a-billion-mod-ru)
 
 ### One More Lawn
 
