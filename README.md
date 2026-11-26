@@ -9,7 +9,7 @@
 
 Русификаторы, таблицы .CT и сохранения открыты бесплатно сразу; новые мод-меню и срочные патчи выходят на Boosty на 48 часов раньше, затем открываются всем.
 
-**[Каталог с поиском (neoru-droid.github.io)](https://neoru-droid.github.io/)** · **[Отслеживать патчи на Boosty (бесплатно)](https://boosty.to/cd_tixo?utm_source=github_profile&utm_medium=follow&utm_campaign=hub)** · **[Telegram-канал](https://t.me/neoru_droid)** · **[Страница на Boosty](https://boosty.to/cd_tixo?utm_source=github_profile&utm_medium=readme&utm_campaign=hub)** · **[Руководства в Steam](https://steamcommunity.com/id/cd-_-TiXo/myworkshopfiles/?section=guides)**
+**[Каталог с поиском (neoru-droid.github.io)](https://neoru-droid.github.io/)** · **[Отслеживать патчи на Boosty (бесплатно)](https://boosty.to/cd_tixo?utm_source=github_profile&utm_medium=follow&utm_campaign=hub)** · **[Страница на Boosty](https://boosty.to/cd_tixo?utm_source=github_profile&utm_medium=readme&utm_campaign=hub)** · **[Руководства в Steam](https://steamcommunity.com/id/cd-_-TiXo/myworkshopfiles/?section=guides)**
 
 ## Ранний доступ и заказ своей игры
 
@@ -59,6 +59,12 @@
 **[Страница игры на Boosty](https://boosty.to/cd_tixo/posts/73fae114-79d9-4305-99cc-8d8af1d157ce?utm_source=github_profile&utm_medium=readme&utm_campaign=we_march_as_one)** · [GitHub](https://github.com/neoru-droid/we-march-as-one-ru) · [Руководство в Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3840161059)
 
 ## Мод-меню и таблицы Cheat Engine
+
+### Slotbound
+
+Панель «Механизм слота» на 15 функций, русская таблица .CT (12 скриптов) и стартовое сохранение на 10 000 оригинита и все 113 улучшений кузни.
+
+**[Ранний доступ на Boosty (от 120 ₽)](https://boosty.to/cd_tixo/posts/d014d4a8-d162-4abb-9a5d-ee4614fb1b8e?utm_source=github_profile&utm_medium=readme&utm_campaign=slotbound)** · [GitHub](https://github.com/neoru-droid/slotbound-mod-ru)
 
 ### No Asteroids
 
