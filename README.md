@@ -21,6 +21,12 @@
 
 ## Русификаторы и сборки 2-в-1
 
+### The Magus Circle
+
+6 706 строк диалогов, заклинаний, 111 реликвий и 68 достижений с пиксельными шрифтами плюс гримуар настроек и .CT.
+
+**[Ранний доступ на Boosty (от 120 ₽)](https://boosty.to/cd_tixo/posts/1156f6fc-0f95-4945-845f-a1da765de3fe?utm_source=github_profile&utm_medium=readme&utm_campaign=the_magus_circle)** · [GitHub](https://github.com/neoru-droid/the-magus-circle-ru)
+
 ### Playrooms
 
 Система Playrooms95, 177 реплик скрепки Балли, письма, телетекст и 4 шрифта игры плюс выносливость и фонарик.
@@ -53,6 +59,12 @@
 
 ## Мод-меню и таблицы Cheat Engine
 
+### PC Store Together
+
+Старт магазина с бюджетом 250 000 $ и 28 уровнем репутации, все навыки ремонта, очистка ПК от пыли и вирусов и 30 C.
+
+**[Ранний доступ на Boosty (от 120 ₽)](https://boosty.to/cd_tixo/posts/6a6f1442-48c9-4107-94a0-0d108e2b061b?utm_source=github_profile&utm_medium=readme&utm_campaign=pc_store_together)** · [GitHub](https://github.com/neoru-droid/pc-store-together-mod-ru)
+
 ### Ski-E-O! Ski Resort Tycoon
 
 Старт с бюджетом 5 000 000 $, заморозка счёта, репутация курорта, бесплатные снегопушки и быстрая камера.
@@ -69,7 +81,7 @@
 
 10 000 000 $ на счету со старта, золотые слитки, очки навыков, все инструменты, магнит купюр и ускорение работы.
 
-**[Ранний доступ на Boosty (от 120 ₽)](https://boosty.to/cd_tixo/posts/91615b98-617b-4e4e-8056-baf6eca9ae71?utm_source=github_profile&utm_medium=readme&utm_campaign=shred_a_billion)** · [GitHub](https://github.com/neoru-droid/shred-a-billion-mod-ru)
+**[Страница игры на Boosty](https://boosty.to/cd_tixo/posts/91615b98-617b-4e4e-8056-baf6eca9ae71?utm_source=github_profile&utm_medium=readme&utm_campaign=shred_a_billion)** · [GitHub](https://github.com/neoru-droid/shred-a-billion-mod-ru)
 
 ### One More Lawn
 
