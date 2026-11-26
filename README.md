@@ -51,6 +51,12 @@
 
 **[Страница игры на Boosty](https://boosty.to/cd_tixo/posts/955a2671-c452-4955-b234-15400619ae78?utm_source=github_profile&utm_medium=readme&utm_campaign=booster_pack_heroes)** · [GitHub](https://github.com/neoru-droid/booster-pack-heroes-mod-ru)
 
+### Dice Hoarder
+
+Мод-меню на русском в стиле HUD игры, стартовое сохранение сюжетного режима на 4 уровень и таблица Cheat Engine на очки навыков, уровни, 8 навыков, выносливость, скорость и дальний захват.
+
+**[Страница игры на Boosty](https://boosty.to/cd_tixo/posts/0585ec01-e32d-46a6-87fe-edee2045a9fc?utm_source=github_profile&utm_medium=readme&utm_campaign=dice_hoarder)** · [GitHub](https://github.com/neoru-droid/dice-hoarder-mod-ru)
+
 ### Here Comes the Horde
 
 Внутриигровое мод-меню с 8 настройками баланса и таблица Cheat Engine v1.1 (исправлены Души и сохранение прогресса после перезапуска).
@@ -74,3 +80,9 @@
 Мод-меню на русском, стартовое сохранение с 10 000 000 $ и таблица Cheat Engine на деньги, золотые слитки, очки навыков, инструменты и магнит купюр.
 
 **[Страница игры на Boosty](https://boosty.to/cd_tixo/posts/91615b98-617b-4e4e-8056-baf6eca9ae71?utm_source=github_profile&utm_medium=readme&utm_campaign=shred_a_billion)** · [GitHub](https://github.com/neoru-droid/shred-a-billion-mod-ru)
+
+### Ski-E-O! Ski Resort Tycoon
+
+Мод-меню на русском в стиле интерфейса курорта, стартовое сохранение на 5 000 000 $ и таблица Cheat Engine на деньги, заморозку счёта, репутацию, бесплатные снегопушки и быструю камеру.
+
+**[Страница игры на Boosty](https://boosty.to/cd_tixo/posts/4f0cee8e-4c79-4c4c-826f-5caef2db29e9?utm_source=github_profile&utm_medium=readme&utm_campaign=ski_e_o)** · [GitHub](https://github.com/neoru-droid/ski-e-o-mod-ru)
