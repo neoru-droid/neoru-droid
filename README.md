@@ -9,7 +9,7 @@
 
 Русификаторы, таблицы .CT и сохранения открыты бесплатно сразу; новые мод-меню и срочные патчи выходят на Boosty на 48 часов раньше, затем открываются всем.
 
-**[Каталог с поиском (neoru-droid.github.io)](https://neoru-droid.github.io/)** · **[Отслеживать патчи на Boosty (бесплатно)](https://boosty.to/cd_tixo?utm_source=github_profile&utm_medium=follow&utm_campaign=hub)** · **[Страница на Boosty](https://boosty.to/cd_tixo?utm_source=github_profile&utm_medium=readme&utm_campaign=hub)** · **[Руководства в Steam](https://steamcommunity.com/id/cd-_-TiXo/myworkshopfiles/?section=guides)**
+**[Каталог с поиском (neoru-droid.github.io)](https://neoru-droid.github.io/)** · **[Отслеживать патчи на Boosty (бесплатно)](https://boosty.to/cd_tixo?utm_source=github_profile&utm_medium=follow&utm_campaign=hub)** · **[Telegram-канал](https://t.me/neoru_droid)** · **[Страница на Boosty](https://boosty.to/cd_tixo?utm_source=github_profile&utm_medium=readme&utm_campaign=hub)** · **[Руководства в Steam](https://steamcommunity.com/id/cd-_-TiXo/myworkshopfiles/?section=guides)**
 
 ## Ранний доступ и заказ своей игры
 
@@ -21,6 +21,12 @@
 **[Выбрать уровень или предложить игру на Boosty](https://boosty.to/cd_tixo?utm_source=github_profile&utm_medium=readme&utm_campaign=order_game)**
 
 ## Русификаторы и сборки 2-в-1
+
+### Rekindled: Cozy Tavern Life
+
+Меню, настройки, реплики Драко, обучение, грамоты, рецепты, блюда, растения и декор (1 630 строк) с 4 кириллическими шрифтами.
+
+**[Страница игры на Boosty](https://boosty.to/cd_tixo/posts/be1a3886-76d1-4d95-b90d-56ecaff4d976?utm_source=github_profile&utm_medium=readme&utm_campaign=rekindled)** · [GitHub](https://github.com/neoru-droid/rekindled-ru)
 
 ### The Magus Circle
 
