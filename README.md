@@ -24,7 +24,7 @@
 
 ### Rekindled: Cozy Tavern Life
 
-Меню, настройки, реплики Драко, обучение, грамоты, рецепты, блюда, растения и декор (1 630 строк) с 4 кириллическими шрифтами.
+1 630 ключей текста, 4 кириллических шрифта, «Книга трактирщика» на 16 функций, таблица .CT и сохранение 1-го дня.
 
 **[Страница игры на Boosty](https://boosty.to/cd_tixo/posts/be1a3886-76d1-4d95-b90d-56ecaff4d976?utm_source=github_profile&utm_medium=readme&utm_campaign=rekindled)** · [GitHub](https://github.com/neoru-droid/rekindled-ru)
 
