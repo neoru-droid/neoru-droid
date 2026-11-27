@@ -9,7 +9,7 @@
 
 Русификаторы, таблицы .CT, сохранения и фиксы под патчи Steam открыты бесплатно сразу; новые мод-меню выходят на Boosty на 7 дней раньше (дата открытия не переносится), затем открываются всем.
 
-**[Каталог с поиском (neoru-droid.github.io)](https://neoru-droid.github.io/)** · **[Отслеживать патчи на Boosty (бесплатно)](https://boosty.to/cd_tixo)** · **[Telegram-канал](https://t.me/neoru_droid)** · **[Страница на Boosty](https://boosty.to/cd_tixo)** · **[Руководства в Steam](https://steamcommunity.com/id/cd-_-TiXo/myworkshopfiles/?section=guides)**
+**[Каталог с поиском (neoru-droid.github.io)](https://neoru-droid.github.io/)** · **[Отслеживать патчи на Boosty (бесплатно)](https://boosty.to/cd_tixo)** · **[Страница на Boosty](https://boosty.to/cd_tixo)** · **[Руководства в Steam](https://steamcommunity.com/id/cd-_-TiXo/myworkshopfiles/?section=guides)**
 
 ## Ранний доступ и заказ своей игры
 
@@ -71,6 +71,12 @@
 **[Страница игры на Boosty](https://boosty.to/cd_tixo/posts/73fae114-79d9-4305-99cc-8d8af1d157ce)** · [GitHub](https://github.com/neoru-droid/we-march-as-one-ru) · [Руководство в Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3840161059)
 
 ## Мод-меню и таблицы Cheat Engine
+
+### Find The Needle
+
+«Пульт ангара» (3D-сканер игл, телепорт, раскопка воронки, все 178 технологий, полёт, 3 пресета), таблица .CT (5 строк) и сохранение.
+
+**[Ранний доступ на Boosty (от 120 ₽)](https://boosty.to/cd_tixo/posts/352a2330-0c2f-471b-aaa6-1936fe0dc091)** · [GitHub](https://github.com/neoru-droid/find-the-needle-mod-ru)
 
 ### Sandustry
 
