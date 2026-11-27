@@ -54,7 +54,7 @@
 
 ### Frontier Tale
 
-Сюжетные диалоги, предметы, рецепты, задания и подписи мини-карты (7 040 строк) под патч 2.2.0.
+Сюжетные диалоги, предметы, рецепты, задания, мини-карта и редактор карт (7 401 строка) под патч 2.2.1.
 
 **[Страница игры на Boosty](https://boosty.to/cd_tixo/posts/486ebb53-422d-4023-9da7-b1fdbc0b2a7f)** · [GitHub](https://github.com/neoru-droid/frontier-tale-ru) · [Руководство в Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3840837132)
 
