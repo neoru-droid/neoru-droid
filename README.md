@@ -22,6 +22,12 @@
 
 ## Русификаторы и сборки 2-в-1
 
+### HARMA
+
+7 825 строк перевода, шрифт Alegreya HL и 52 спрайта кнопок, «Кодекс Хармы» (12 функций), таблица .CT и сохранение.
+
+**[Ранний доступ на Boosty (от 120 ₽)](https://boosty.to/cd_tixo/posts/41207992-821b-4d2f-a998-b11eff1c922a)** · [GitHub](https://github.com/neoru-droid/harma-ru) · [Руководство в Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3846639642)
+
 ### Rekindled: Cozy Tavern Life
 
 1 630 ключей текста, 4 кириллических шрифта, «Книга трактирщика» на 16 функций, таблица .CT и сохранение 1-го дня.
