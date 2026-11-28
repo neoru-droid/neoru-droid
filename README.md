@@ -9,7 +9,7 @@
 
 Русификаторы, таблицы .CT, сохранения и фиксы под патчи Steam открыты бесплатно сразу; новые мод-меню выходят на Boosty на 7 дней раньше (дата открытия не переносится), затем открываются всем.
 
-**[Каталог с поиском (neoru-droid.github.io)](https://neoru-droid.github.io/)** · **[Отслеживать патчи на Boosty (бесплатно)](https://boosty.to/cd_tixo)** · **[Страница на Boosty](https://boosty.to/cd_tixo)** · **[Руководства в Steam](https://steamcommunity.com/id/cd-_-TiXo/myworkshopfiles/?section=guides)**
+**[Каталог с поиском (neoru-droid.github.io)](https://neoru-droid.github.io/)** · **[Отслеживать патчи на Boosty (бесплатно)](https://boosty.to/cd_tixo)** · **[Telegram-канал](https://t.me/neoru_droid)** · **[Страница на Boosty](https://boosty.to/cd_tixo)** · **[Руководства в Steam](https://steamcommunity.com/id/cd-_-TiXo/myworkshopfiles/?section=guides)**
 
 ## Ранний доступ и заказ своей игры
 
@@ -112,13 +112,13 @@
 
 Старт с бюджетом 5 000 000 $, заморозка счёта, репутация курорта, бесплатные снегопушки и быстрая камера.
 
-**[Ранний доступ на Boosty (от 120 ₽)](https://boosty.to/cd_tixo/posts/4f0cee8e-4c79-4c4c-826f-5caef2db29e9)** · [GitHub](https://github.com/neoru-droid/ski-e-o-mod-ru)
+**[Страница игры на Boosty](https://boosty.to/cd_tixo/posts/4f0cee8e-4c79-4c4c-826f-5caef2db29e9)** · [GitHub](https://github.com/neoru-droid/ski-e-o-mod-ru)
 
 ### Dice Hoarder
 
 Сохранение на 4 уровень, прокачка всех 8 навыков, бесконечная выносливость, дальний захват x3 и автосортировка.
 
-**[Ранний доступ на Boosty (от 120 ₽)](https://boosty.to/cd_tixo/posts/0585ec01-e32d-46a6-87fe-edee2045a9fc)** · [GitHub](https://github.com/neoru-droid/dice-hoarder-mod-ru)
+**[Страница игры на Boosty](https://boosty.to/cd_tixo/posts/0585ec01-e32d-46a6-87fe-edee2045a9fc)** · [GitHub](https://github.com/neoru-droid/dice-hoarder-mod-ru)
 
 ### SHRED A BILLION
 
