@@ -44,7 +44,7 @@
 
 6 706 строк диалогов, заклинаний, 111 реликвий и 68 достижений с пиксельными шрифтами плюс гримуар настроек и .CT.
 
-**[Ранний доступ на Boosty (от 120 ₽)](https://boosty.to/cd_tixo/posts/1156f6fc-0f95-4945-845f-a1da765de3fe)** · [GitHub](https://github.com/neoru-droid/the-magus-circle-ru)
+**[Страница игры на Boosty](https://boosty.to/cd_tixo/posts/1156f6fc-0f95-4945-845f-a1da765de3fe)** · [GitHub](https://github.com/neoru-droid/the-magus-circle-ru)
 
 ### Playrooms
 
@@ -124,7 +124,7 @@
 
 Старт магазина с бюджетом 250 000 $ и 28 уровнем репутации, все навыки ремонта, очистка ПК от пыли и вирусов и 30 C.
 
-**[Ранний доступ на Boosty (от 120 ₽)](https://boosty.to/cd_tixo/posts/6a6f1442-48c9-4107-94a0-0d108e2b061b)** · [GitHub](https://github.com/neoru-droid/pc-store-together-mod-ru)
+**[Страница игры на Boosty](https://boosty.to/cd_tixo/posts/6a6f1442-48c9-4107-94a0-0d108e2b061b)** · [GitHub](https://github.com/neoru-droid/pc-store-together-mod-ru)
 
 ### Ski-E-O! Ski Resort Tycoon
 
